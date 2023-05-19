@@ -1,0 +1,47 @@
+{"BigQuery Schema":[
+  {
+    "mode": "NULLABLE",
+    "name": "ip",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "user_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "lat",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "lng",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "timestamp",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "http_request",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "http_response",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "num_bytes",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "user_agent",
+    "type": "STRING"
+  }
+]}
